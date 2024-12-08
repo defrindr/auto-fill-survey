@@ -29,9 +29,9 @@ Panduan ini menjelaskan cara menginstal ekstensi Chrome dari repository GitHub.
 ## **3. Load Unpacked Extension**
 1. Klik tombol **Load unpacked**.
 2. Pilih folder yang berisi file ekstensi.  
-Folder ini adalah:
-- Lokasi hasil ekstraksi ZIP.
-- Atau folder hasil `git clone`.
+   Folder ini adalah:
+      - Lokasi hasil ekstraksi ZIP.
+      - Atau folder hasil `git clone`
 3. Chrome akan memuat ekstensi dan menampilkannya di daftar ekstensi.
 
 ---
@@ -49,10 +49,10 @@ Jika ekstensi tidak bekerja dengan baik:
 1. Kembali ke halaman **chrome://extensions/**.
 2. Klik **Service Worker** atau **Inspect views** di bawah nama ekstensi Anda.
 3. Buka tab **Console** dan periksa error yang muncul.
-- **Pastikan Semua File Ada**:
-- Pastikan file penting seperti `manifest.json`, `background.js`, `content.js`, dll., tidak hilang.
-- **Periksa Manifest JSON**:
-- File `manifest.json` harus menggunakan **Manifest V3** dan memiliki konfigurasi yang benar.
+   - **Pastikan Semua File Ada**:
+   - Pastikan file penting seperti `manifest.json`, `background.js`, `content.js`, dll., tidak hilang.
+   - **Periksa Manifest JSON**:
+   - File `manifest.json` harus menggunakan **Manifest V3** dan memiliki konfigurasi yang benar.
 
 ---
 
