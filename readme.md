@@ -54,6 +54,10 @@ Jika ekstensi tidak bekerja dengan baik:
 
 ---
 
+## **6. Demo**
+
+[https://youtu.be/H2XRA4dxJOwY](https://youtu.be/H2XRA4dxJOw)
+
 ### **Referensi**
 - [Google Chrome Extension Documentation](https://developer.chrome.com/docs/extensions/)
 
