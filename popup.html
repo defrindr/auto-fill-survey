@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Auto Fill Survey</title>
+    <style>
+      body {
+        width: 500px;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>Auto Fill Survey</h3>
+    <div style="margin-bottom: 20px">
+      <label>
+        <input type="radio" name="fill-mode" value="random" checked />
+        Random
+      </label>
+      <label>
+        <input type="radio" name="fill-mode" value="last" />
+        Last Value
+      </label>
+    </div>
+    <button id="save-settings">Save Settings</button>
+    <button id="fill-survey">Fill Survey</button>
+    <script src="popup.js"></script>
+  </body>
+</html>
