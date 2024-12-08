@@ -19,10 +19,8 @@ Panduan ini menjelaskan cara menginstal ekstensi Chrome dari repository GitHub.
 ## **2. Buka Chrome Extension Manager**
 1. Buka browser Chrome.
 2. Akses halaman **Extensions Manager** dengan membuka URL berikut:
-    ```
-    chrome://extensions/
-    ```
-3. Aktifkan **Developer Mode** di kanan atas halaman.
+    `chrome://extensions/`
+1. Aktifkan **Developer Mode** di kanan atas halaman.
 
 ---
 
